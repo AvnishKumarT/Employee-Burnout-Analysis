@@ -18,7 +18,7 @@ To replicate the analysis:
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/AvnishKThakur/EMPLOYMENT-BURNOUT.git
+git clone https://github.com/AvnishKumarT/Employee-Burnout-Analysis.git
 ```
 
 ### Install the required packages:
